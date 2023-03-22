@@ -1,1 +1,6 @@
-
+woman, best quality, highres, 8k,
+Steps: 20, Sampler: PLMS, CFG scale: 7, Seed: 3074907722, Size: 512x512, Model hash: c35782bad8, Model: realisticVisionV13_v13
+lighting:
+lighting, halo lighting, cinematic lighting, bloom lighting, god rays, hard shadows, studio lighting, soft lighting, diffused lighting, rim lighting, volumetric lighting, specular lighting, luminescence, translucency, subsurface scattering, global illumination, indirect light, radiant light rays, bioluminescent details, ektachrome, glowing, shimmering light,  iridescent, backlighting, caustics,
+sampler method:
+Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM adaptive, LMS Karras, DPM2 Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS
